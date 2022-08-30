@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/behavioral/interpreter/Test.java=UTF-8
+encoding//src/behavioral/interpreter/interpreters/FinnishInterpreter.java=UTF-8
+encoding//src/behavioral/interpreter/language/English.java=UTF-8
+encoding//src/behavioral/interpreter/language/Finnish.java=UTF-8
+encoding//src/behavioral/interpreter/language/German.java=UTF-8
+encoding//src/behavioral/interpreter/language/Language.java=UTF-8
+encoding//src/structural_patterns/adapter/MyPhone.java=UTF-8
+encoding//src/structural_patterns/bridge/device/Computer.java=UTF-8
+encoding//src/structural_patterns/facade/app/Test.java=UTF-8
+encoding//src/structural_patterns/facade/delayed/LateFeeCalculationService.java=UTF-8
+encoding//src/structural_patterns/facade/facade/PaymentFacade.java=UTF-8
+encoding//src/structural_patterns/facade/following/FollowingAccountsService.java=UTF-8
+encoding//src/structural_patterns/facade/payment/creditCard/CreditCardControlService.java=UTF-8
+encoding//src/structural_patterns/facade/payment/creditCard/CreditCardService.java=UTF-8
+encoding//src/structural_patterns/facade/structuring/StructuringControlService.java=UTF-8
